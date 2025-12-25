@@ -1,5 +1,3 @@
-# Sensia_fullstack_assesment
-
 # Sensia Fullstack Assessment
 
 This repository contains a **Full‑Stack Assessment Project** developed as part of the Sensia evaluation process. The project demonstrates backend API development, frontend integration, and overall full‑stack application design following best practices.
